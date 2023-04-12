@@ -1,0 +1,2 @@
+'amt' 'first' 'last' 'street' 'state' 'zip' 'lat' 'long' 'job'
+ 'trans_num']
